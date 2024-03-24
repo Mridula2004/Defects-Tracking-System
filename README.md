@@ -1,6 +1,6 @@
 # DefectsTrackingSystem
-Features
-/nIssue Tracking: Allows users to create, update, and close issues.
+Features <br />
+Issue Tracking: Allows users to create, update, and close issues.
 Prioritization: Ability to assign priority levels to issues for better organization.
 Assignment: Assigning issues to specific team members for resolution.
 Comments: Adding comments and updates to issues to facilitate collaboration.
